@@ -1,1 +1,1 @@
-This is the repo for the AR business card assignment
+This is the repo for my AR business card project.
