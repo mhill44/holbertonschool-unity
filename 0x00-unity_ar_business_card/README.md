@@ -1,1 +1,1 @@
-This is the repo for my ar business card assignment. it uses the vuforia ar engine 
+This is the repo for my AR business card project.
