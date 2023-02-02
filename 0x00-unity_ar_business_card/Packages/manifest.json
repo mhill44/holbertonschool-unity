@@ -1,14 +1,6 @@
 {
-  "scopedRegistries": [
-    {
-      "name": "Vuforia",
-      "url": "https://registry.packages.developer.vuforia.com/",
-      "scopes": [
-        "com.ptc.vuforia"
-      ]
-    }
-  ],
-  "dependencies": {
+    "dependencies": {
+    "com.ptc.vuforia.engine": "file:com.ptc.vuforia.engine-10.12.3.tgz",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.spriteshape": "7.0.4",
     "com.unity.collab-proxy": "1.15.18",
