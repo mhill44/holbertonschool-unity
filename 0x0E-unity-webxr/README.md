@@ -1,1 +1,1 @@
-This is the subrepo for my webGL bowling game project.
+This is the subrepo for my webGL bowling game second attempt.
